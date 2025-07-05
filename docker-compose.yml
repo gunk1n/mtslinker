@@ -5,4 +5,4 @@ services:
     volumes:
       - .:/app
     # Пример запуска с URL (можно переопределить при вызове)
-    command: ["https://my.mts-link.ru/12345678/987654321/record-new/123456789/record-file/1234567890",  "--session-id", "a1b2c3d4"] 
+    command: ["https://my.mts-link.ru/Cloud/856071692/record-new/1482280531",  "--session-id", "6049ae8bedcf8d8e1960da528e5cc18b"] 
